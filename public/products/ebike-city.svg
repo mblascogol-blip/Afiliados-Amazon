@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <rect width="400" height="300" fill="#16181B"/>
+  <g opacity="0.9"><circle cx="100" cy="210" r="42" fill="none" stroke="#C8F31D" stroke-width="6"/><circle cx="300" cy="210" r="42" fill="none" stroke="#C8F31D" stroke-width="6"/><path d="M100 210 L160 130 L230 130 L300 210 M160 130 L150 210 M230 130 L240 90 L180 90 L180 70" fill="none" stroke="#C8F31D" stroke-width="6" stroke-linecap="round"/></g>
+  <text x="200" y="270" font-family="monospace" font-size="14" fill="#6B6B6E" text-anchor="middle" letter-spacing="2">E-CITY</text>
+</svg>

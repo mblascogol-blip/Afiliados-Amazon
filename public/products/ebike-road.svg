@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <rect width="400" height="300" fill="#16181B"/>
+  <g opacity="0.9"><circle cx="90" cy="200" r="40" fill="none" stroke="#C8F31D" stroke-width="5"/><circle cx="310" cy="200" r="40" fill="none" stroke="#C8F31D" stroke-width="5"/><path d="M90 200 L180 120 L240 120 L310 200 M180 120 L160 200 M240 120 L220 70 L170 70" fill="none" stroke="#C8F31D" stroke-width="5" stroke-linecap="round"/></g>
+  <text x="200" y="270" font-family="monospace" font-size="14" fill="#6B6B6E" text-anchor="middle" letter-spacing="2">E-ROAD</text>
+</svg>

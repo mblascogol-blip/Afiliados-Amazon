@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <rect width="400" height="300" fill="#16181B"/>
+  <g opacity="0.9"><circle cx="110" cy="230" r="28" fill="none" stroke="#C8F31D" stroke-width="6"/><circle cx="300" cy="230" r="28" fill="none" stroke="#C8F31D" stroke-width="6"/><path d="M110 230 L290 230 L300 230 M280 230 L280 100 L320 100 M280 130 L230 130" fill="none" stroke="#C8F31D" stroke-width="6" stroke-linecap="round"/></g>
+  <text x="200" y="270" font-family="monospace" font-size="14" fill="#6B6B6E" text-anchor="middle" letter-spacing="2">SCOOTER</text>
+</svg>
