@@ -63,15 +63,13 @@ export default async function ProductPage({
             </span>
           </div>
 
-          <div className="mt-5 flex items-baseline gap-3">
-            <span className="font-display text-3xl font-extrabold text-[var(--accent)]">
-              {product.price}
+          <div className="mt-5">
+            <span className="font-display text-lg font-bold uppercase tracking-wide text-[var(--accent)]">
+              Ver precio actual en Amazon
             </span>
-            {product.oldPrice && (
-              <span className="text-base text-[var(--text-faint)] line-through">
-                {product.oldPrice}
-              </span>
-            )}
+            <p className="mt-1 text-xs text-[var(--text-faint)]">
+              El precio puede variar y se confirma en la página de Amazon antes de comprar.
+            </p>
           </div>
 
           <p className="mt-5 leading-relaxed text-[var(--text-muted)]">{product.summary}</p>

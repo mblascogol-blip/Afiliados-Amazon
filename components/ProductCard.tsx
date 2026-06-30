@@ -32,14 +32,9 @@ export default function ProductCard({ product }: { product: Product }) {
           <span className="text-xs text-[var(--text-faint)]">({product.reviewCount})</span>
         </div>
         <div className="mt-auto flex items-baseline gap-2 pt-3">
-          <span className="font-display text-xl font-extrabold text-[var(--accent)]">
-            {product.price}
+          <span className="font-display text-sm font-bold uppercase tracking-wide text-[var(--accent)]">
+            Ver precio en Amazon
           </span>
-          {product.oldPrice && (
-            <span className="text-sm text-[var(--text-faint)] line-through">
-              {product.oldPrice}
-            </span>
-          )}
         </div>
       </div>
     </Link>

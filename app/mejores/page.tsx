@@ -49,8 +49,8 @@ export default function MejoresPage() {
                           {p.rating.toFixed(1)}
                         </span>
                       </div>
-                      <span className="mt-1 block font-display text-sm font-bold text-[var(--accent)]">
-                        {p.price}
+                      <span className="mt-1 block font-display text-xs font-bold uppercase tracking-wide text-[var(--accent)]">
+                        Ver precio en Amazon
                       </span>
                     </div>
                     <div className="w-full sm:w-48">
